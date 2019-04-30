@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Proyecto Guia Matematica</string>
+    ECTSharedPref
+    Hello world!
+    Perfil Usuario
+
+    Settings
+    Limpiar Perfil
+
+    Usuario:
+    Guardar
+    Perfil Usuario guardado correctamente
+
+    preference_file_key
+    usuarioKey
 </resources>
+
